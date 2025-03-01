@@ -1,0 +1,22 @@
+body{
+margin: 0px;
+}
+.header-1 h1{
+    text-align: center;
+    background-color:rgb(255, 217, 170);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+}
+.height img{
+    height: 500px;
+    width: 250px;
+}
+.header-2{
+    text-align: center;
+    background-color:rgb(255, 217, 170);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+    
+}
